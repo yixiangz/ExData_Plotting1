@@ -51,7 +51,7 @@ memory (most modern computers should be fine).
 rather than reading in the entire dataset and subsetting to those
 dates.
 
-* You may find it useful to convert the Date and Time variables to
+*  The Date and Time variables has been converted to
 Date/Time classes in R using the `strptime()` and `as.Date()`
 functions.
 
@@ -64,16 +64,6 @@ Our overall goal here is simply to examine how household energy usage
 varies over a 2-day period in February, 2007. Your task is to
 reconstruct the following plots below, all of which were constructed
 using the base plotting system.
-
-First you will need to fork and clone the following GitHub repository:
-[https://github.com/rdpeng/ExData_Plotting1](https://github.com/rdpeng/ExData_Plotting1)
-
-
-For each plot you should
-
-* Construct the plot and save it to a PNG file with a width of 480
-pixels and a height of 480 pixels.
-
 
 
 * There are 4 R code files, 4 png files and this "read - me" file.
